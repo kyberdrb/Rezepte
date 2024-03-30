@@ -12,7 +12,7 @@
         - vajíčka: 2 ks
     - kypridlo
         - sóda bikarbóna/prášok do pečiva: 2 čajové lyžičky
-        - mlieko (ľubovoľný obsah tuku): 2 čajové lyžičky
+        - mlieko (ľubovoľného obsah tuku): 2 čajové lyžičky
 
 - Krústa
     - cukor kryštálový: 80g
@@ -21,7 +21,7 @@
     - med: 3 polievkové lyžice
 
 - Plnka
-    - mlieko (ľubovoľný obsah tuku): 600ml
+    - mlieko (ľubovoľného obsah tuku): 600ml
     - puding vanilkový/Zlatý klas: 2 ks
     - maslo: 250g (1 ks)
     - rum: 100ml
