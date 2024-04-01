@@ -1,14 +1,16 @@
 # Pšenový koláčik
 
+## Suroviny
+
 - Cesto
-    - múka pšenová 350g (alebo 300g + 50g múky pšeničnej hladkej)
-    - mrkva ošúpaná na jemno postrúhaná 350g (netto) / cca 400-450g brutto
-    - olej rastlinný (repkový) 4 polievkové lyžice
-    - xylitol (cukor brezový) / cukor kryštálový 160g
-    - vajíčka 2 ks (môžu byť aj 1-2 ks banánov alebo ekvivalentné množstvo ovsenej múky, cca 50g)
-    - škorica mletá 2 polievkové lyžice
-    - pášok kypriaci 1 ks (20-25g)
-    - sóda bikarbóna 1/4 čajovej lyžičky
+    - múka pšenová: 350g (alebo 300g + 50g múky pšeničnej hladkej)
+    - mrkva ošúpaná na jemno postrúhaná: 350g (netto) / cca 400-450g brutto
+    - olej rastlinný (repkový): 4 polievkové lyžice
+    - xylitol (cukor brezový) / cukor kryštálový: 160g
+    - vajíčka: 2 ks (môžu byť aj 1-2 ks banánov alebo ekvivalentné množstvo ovsenej múky, cca 50g)
+    - škorica mletá: 2 polievkové lyžice
+    - pášok kypriaci: 1 ks (20-25g)
+    - sóda bikarbóna: 1/4 čajovej lyžičky
 
 ## Postup
 
