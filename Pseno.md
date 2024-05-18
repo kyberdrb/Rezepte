@@ -6,22 +6,21 @@
 - xylitol: 50g
 - čakanková vláknina: 1/2 čajovej lyžičky
 - olej rastlinný (repkový): 1-2 polievkové lyžice
+- voda vriaca: 1 liter
 
 ## Postup
 
 ### Pšeno sypké
 
-1. Pšeno premyjeme
-    - buď pšeno nasypeme do sitka a dve minúty premývame zrno rukou pod vlažnou tečúcou vodou, a minútu pod studenou tečúcou vodou (studená voda je čírejšia: pokiaľ je pšeno dobre premyté).
-    - alebo pšeno nasypeme ďalšieho hrnca, napustíme vlažnou vodou, premyjeme rukou a znečistenú vodu zlejeme cez sitko. Opakujeme 2-3x. Nakoniec premyjeme studenou vodou, aby sme videli aj posledné nečistoty.
-
-1. Premyté pšeno presypeme do ďalšieho hrnca.
-1. Do pšena pridáme xylitol, vlákninu a rastlinný olej, aby sa ľahšie oddelovalo od seba aj od dna. Pšeno zalejeme 1 litrom vriacej vody.
-1. Hrniec položíme na platňu rozohriatu na maximum (napr. stupeň 6). Akonáhle sa začne pšeno variť - vidno prvé bublinky, stlmíme ohrev na najnižší stupeň (napr. stupeň 1-2), prikryjeme pokrievkou a varíme ďaších 7-10 minút, kým sa v pšene nezačnú tvoriť dierky. Po 10 minútach znovu premiešame a zakryjeme pokrievkou. Po ďalších 20 minútach pokrievku odložíme a necháme vychladnúť voľne.
+1. Pšeno nasypeme do hrnca, zalejeme horúcou vodou a premiešame lyžicou, aby sme zrno premyli od nečistôt a povrchového škrobu, aby sa menej prichytávali zrná jedno o druhé a pšeno bolo celistvé a zároveň sypké, s oddeľujúcimi sa zrnkami. Horúcu vodu zlejeme cez sitko. Zachytené zrnká hodíme naspäť do hrnca.
+1. Do hrnca napustíme studenú vodu a premyjeme rovnako, ako v predošlom kroku.
+1. Pšeno nasypeme do hrnca, pridáme olej a dôkladne premiešame, aby sa každé zrnko obalilo olejom: ľahšie sa budú zrnká oddeľovať od seba, a neprichití sa o dno.
+1. Pridáme xylitol, vlákninu. Pšeno zalejeme vriacou vodou.
+1. Hrniec položíme na platňu rozohriatu na maximum (napr. stupeň 6). Akonáhle sa začne pšeno variť - vidno prvé bublinky, preložíme hrniec na menšiu platňu rozohriatu na nižší stupeň (napr. stupeň 4), prikryjeme pokrievkou a varíme ďaších cca 15 minút, kým sa v pšene nezačnú tvoriť dierky. Odstavíme a necháme zakryté pokrievkou a necháme vychladnúť na izbovú teplotu.
 
 ### Pšenová kaša
 
-Postup je podobný, ako pri varení sypkého pšena: akonáhle sa začne pšeno variť, stlmíme ohrev na stredný (napr. stupeň 3) pšeno varíme 7-10 minút, kým sa v pšene nezačnú tvoriť dierky. Dolejeme pol litra vriacej vody a varíme za stáleho miešania ďalších desať minút. Odstavíme a necháme dôjsť pod pokrievkou.
+Postup je podobný, ako pri varení sypkého pšena: hrniec položíme na platňu nastavenú na najvyšší ohrev (stupeň 6). Akonáhle sa začne pšeno variť, varíme ho ďalších 7-10 minút, kým sa pšeno nespojí. Dolejeme pol litra vriacej vody a varíme za stáleho miešania ďalších 10 minút. Odstavíme a necháme dôjsť pod pokrievkou.
 
 ## Zdroje
 
