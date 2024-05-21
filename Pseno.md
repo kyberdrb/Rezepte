@@ -1,4 +1,4 @@
-# Pseno
+# Pšeno
 
 ## Suroviny
 
