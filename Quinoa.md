@@ -10,4 +10,4 @@
 
 ## Postup
 
-Do hrnca pridáme vlákninu, cukor a quinou. Zalejeme vriacou vodou. Varíme pod pokrievkou cca 15 minút.
+Do hrnca pridáme olej, vlákninu, cukor a quinou. Zalejeme vriacou vodou. Varíme pod pokrievkou cca 15 minút.
