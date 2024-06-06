@@ -6,6 +6,7 @@
 - voda: 1 liter
 - cukor brezový (xylitol): 30-40g
 - vláknina čakanková: 1-2g
+- olej rastlinný: 15-20ml (1-2 polievkové lyžice)
 
 ## Postup
 
