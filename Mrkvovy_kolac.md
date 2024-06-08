@@ -1,4 +1,4 @@
-# Pšenový koláčik
+# Mrkvový koláč
 
 ## Suroviny
 
