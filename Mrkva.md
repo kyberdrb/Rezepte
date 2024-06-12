@@ -3,9 +3,12 @@
 ## Suroviny
 
 - mrkva: 1kg
-- tymián: 1/2 čajovej lyžičky
-- bazalka: 1 čajová lyžička
-- zázvor: 1/2 čajovej lyžičky
+- koreniny:
+    - tymián: 1/2 čajovej lyžičky
+    - bazalka: 1 čajová lyžička
+    - zázvor: 1/2 čajovej lyžičky
+    - fenikel: 1/2 čajovej lyžičky
+    - badián: 3 semienka
 
 ## Postup
 
