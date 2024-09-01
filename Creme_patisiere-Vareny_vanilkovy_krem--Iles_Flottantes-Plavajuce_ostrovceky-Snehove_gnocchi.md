@@ -3,13 +3,14 @@
 ## Suroviny
 
 - Crème Pâtisière
-    - vajcia 1ks - žĺtky
+    - mlieko / rastlinný nápoj (kokosový/ovsený/...) - 125ml
+    - vajcia 1ks - žĺtok
     - cukor kryštálový/brezový [xylitol] - 25g
-    - škrob kukuričný/zemiakový alebo múka pšeničná - 15g
-    - mlieko - 200ml
+    - škrob kukuričný/zemiakový alebo múka pšeničná - 1/2/3/4/**5**g (podľa hustoty)
     - lusk vanilkový - 1x / mletá vanilka - konček čajovej lyžičky
     - vláknina čakanková - štipka
     - škorica (cejlónska) - štipka
+    - maslo - 10g
 
 - Îles Flottantes
     - vajcia 1ks - bielka
@@ -24,13 +25,19 @@
 
 ### Crème Pâtisière
 
+1. Mlieko nalejeme do hrnca.
+1. Odrežeme 2-3cm dlhý kúsok vanilkového lusku, rozrežeme ho na jednej strane po dĺžke, otvoríme ho a vyškriabeme vnútro do mlieka. Do mlieka pridáme aj vyškrabaný vanilkový lusk.
+
+    Ak používame vanilkový extrakt, tento krok preskočíme.
+1. Mlieko privedieme k jemnému varu. Necháme jemne prebublávať 1-2 minúty, potom odstavíme. Mlieko sa odparovaním zredukuje na cca 100 ml.
 1. Za studena rozmiešame žĺtky s cukrom do hladka.
 1. Pridáme škrob a rozmiešame.
-1. Odrežeme 2-3cm dlhý kúsok vanilkového lusku, rozrežeme ho na jednej strane po dĺžke, otvoríme ho a vyškriabeme vnútro do zmesi.
-1. Pridáme vlákninu a škoricu a rozmiešame.
-1. Postupne pridávame studené mlieko a rozmiešame.
-1. Za stáleho miešania privedieme k varu a varíme 1-2 minúty do zhustnutia.
-1. Odstavíme, necháme vychladnúť na izbovú teplotu a vložíme do chladničky. Skladujeme v chlade. Spotrebujeme do dvoch dní.
+1. [Voliteľne] Pridáme vlákninu a škoricu a rozmiešame.
+1. Pomaly pridávame zohriate mlieko do žĺtkovej zmesi a intenzívne rozmiešavame, aby sme zabránili zmesi sa uvariť a zhrudkovatieť. Mlieko lejeme buď z miernej výšky, aby sa stihlo ochladiť (poprípade ho cestou ofúkavame), alebo ho pridávame po lyžičkách.
+1. Za stáleho miešania zmes privedieme k varu. Varíme 1-2 minúty za intenzívneho miešania do zhustnutia. Potom zmes odstavíme.
+1. Pridáme maslo. Ak používame vanilkový extrakt, pridámeho teraz. Dôkladne premiešame.
+1. [Voliteľne] Pre jemnejšiu konzistenciu môžme ešte krém prepasírovať cez jemné sitko, aby sme odstránili prípadné hrudky.
+1. Čím skôr prikryjeme celofánom, aby sme zabránili tvorbe pevnejšej vrchnej vrstvy. Necháme vychladnúť na izbovú teplotu a vložíme do chladničky. Skladujeme v chlade. Spotrebujeme do dvoch dní.
 
 ### Îles Flottantes
 
