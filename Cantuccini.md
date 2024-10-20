@@ -26,5 +26,6 @@
 
 ## Zdroje
 
-- Tajomstvo mojej kuchyne - Nedeľa 15.10.2017 18:15: https://www.rtvs.sk/televizia/archiv/15422/138208#1258
+- Tajomstvo mojej kuchyne - Nedeľa 15.10.2017 18:15 - 20:58: https://www.rtvs.sk/televizia/archiv/15422/138208#1258
+    - autor: Giovanni Tomaškin - šéfkuchár v hoteli Jánošík v Liptovskom Mikuláši | Recept z epizódy 2017/10/08
 - https://www.tajomstvomojejkuchyne.sk/recepty/ostatne/cantuccini-s-vanilkovym-kremom/
