@@ -6,7 +6,7 @@
     - mlieko / rastlinný nápoj (kokosový/ovsený/...) - 125ml
     - vajcia 1ks - žĺtok
     - cukor kryštálový/brezový [xylitol] - 25g
-    - škrob kukuričný/zemiakový alebo múka pšeničná - 1/2/3/4/**5**g (podľa hustoty)
+    - škrob kukuričný/zemiakový alebo múka pšeničná - 4-5g
     - lusk vanilkový - 1x / mletá vanilka - konček čajovej lyžičky
     - vláknina čakanková - štipka
     - škorica (cejlónska) - štipka
