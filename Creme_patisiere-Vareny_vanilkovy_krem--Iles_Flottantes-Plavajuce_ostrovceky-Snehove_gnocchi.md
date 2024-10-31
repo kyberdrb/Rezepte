@@ -10,7 +10,7 @@
     - lusk vanilkový - 1x / mletá vanilka - konček čajovej lyžičky
     - vláknina čakanková - štipka
     - škorica (cejlónska) - štipka
-    - maslo - 10g
+    - rastlinný olej (repkový) - 10ml
 
 - Îles Flottantes
     - vajcia 1ks - bielka
@@ -34,10 +34,11 @@
 1. Pridáme škrob a rozmiešame.
 1. [Voliteľne] Pridáme vlákninu a škoricu a rozmiešame.
 1. Pomaly pridávame zohriate mlieko do žĺtkovej zmesi a intenzívne rozmiešavame, aby sme zabránili zmesi sa uvariť a zhrudkovatieť. Mlieko lejeme buď z miernej výšky, aby sa stihlo ochladiť (poprípade ho cestou ofúkavame), alebo ho pridávame po lyžičkách.
+1. Pridáme olej.
 1. Za stáleho miešania zmes privedieme k varu. Varíme 1-2 minúty za intenzívneho miešania do zhustnutia. Potom zmes odstavíme.
-1. Pridáme maslo. Ak používame vanilkový extrakt, pridámeho teraz. Dôkladne premiešame.
 1. [Voliteľne] Pre jemnejšiu konzistenciu môžme ešte krém prepasírovať cez jemné sitko, aby sme odstránili prípadné hrudky.
-1. Čím skôr prikryjeme celofánom, aby sme zabránili tvorbe pevnejšej vrchnej vrstvy. Necháme vychladnúť na izbovú teplotu a vložíme do chladničky. Skladujeme v chlade. Spotrebujeme do dvoch dní.
+1. Čím skôr prikryjeme celofánom, aby sme zabránili tvorbe pevnejšej vrchnej vrstvy. Necháme vychladnúť na izbovú teplotu a vložíme do chladničky. Skladujeme v chlade. Spotrebujeme do dvoch dní.  
+    Alebo iba necháme vychladnúť a potom znovu dôkladne premiešame. Vrchná vrstva sa rozpadne a krém znovu nadobudne hladkosť, liatu hustotu a viskóznejšiu konzistenciu.
 
 ### Îles Flottantes
 
